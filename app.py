@@ -176,4 +176,4 @@ if st.button('Inquire'):
 
 # Footer
 st.markdown("<br><br><hr style='border: 1px solid #ccc;'>", unsafe_allow_html=True)
-st.info("Copy© 2026 Adeel Munir | Made With Love in Pakistan")
+st.info("Copy© 2026 Azib Sindhu | Made With Love in Pakistan")
