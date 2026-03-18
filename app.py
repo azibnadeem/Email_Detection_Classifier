@@ -138,7 +138,7 @@ tfidf, model = load_models()
 st.title("Email Classifier")
 html_temp = """
 <div style="background-color:tomato;padding:10px;border-radius:10px">
-<h2 style="color:white;text-align:center;">Streamlit Email Spam Detector ML App </h2>
+<h2 style="color:white;text-align:center;"> Email Spam Detector ML App </h2>
 </div>
 <br>
 """
